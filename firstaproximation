@@ -1,0 +1,18 @@
+<h3 align=center>Hello World</h3>
+
+Let's say Hello to the world with a PRINT statement. E.g. print("Hello World"). Why not give it a try put in a print statement in the cell bellow. Don't forget to do shift+enter to run the cell:
+
+print("HelloWorld")
+HelloWorld
+<h3 align=center>Say Hello World on two lines</h3>
+
+Let's print Hello and World on two separate lines. Hint: \n in the middle of the string acts as a new line character. E.g. print("line 1\nline 2"). Let's try it now. Type in a print statement in the cell bellow. Don't forget to do shift+enter to run the cell:
+
+print("Hellow \n World")
+Hellow 
+ World
+<h3 align=center>Comments are key to good coding</h3>
+
+In python, comments are created by putting a hash mark # in front of the text of the comment. E.g. # this is a comment
+
+# this is a comment
