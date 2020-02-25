@@ -1,4 +1,2 @@
 # Learning
-Here are my first notbooks for python.
-
-Here are first aproximation to python with the Cognitiv Class .iA course.
+Here are the basics for python using the Cognitiv Class .iA course.
